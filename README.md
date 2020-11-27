@@ -1,3 +1,3 @@
 # VerySimpleDiscordSelfBot
-can repeat your text
+can repeat your text,
 written on python
